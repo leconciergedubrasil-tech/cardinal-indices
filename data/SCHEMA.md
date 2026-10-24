@@ -20,6 +20,9 @@ Use **precisao total** ao salvar (nao arredonde): o percentil usa `<=` e o arred
 | FEDFUNDS | Fed Funds (%), ultimo do mes | FRED/Fed | |
 | PL | P/L agregado do Ibovespa | CVM (pipeline proprio) | vies de sobrevivencia declarado no livro |
 | LUCRO | Lucro agregado | CVM | |
+| MAT_LONGA | Vencimento medio (anos) do bucket NTN-B longa | Tesouro Transparente | usado so em `retorno_usd.py` |
+| IPCA_MES | IPCA mensal (%) | IBGE/BCB | usado so em `retorno_usd.py` |
+| SELIC_OVER_MES | Selic over acumulada no mes (%) | BCB | usado so em `retorno_usd.py` |
 | FLUXO_ANUAL | Saldo anual de investidor estrangeiro (R$ mi), repetido em todos os meses do ano | B3 | o codigo usa o saldo do **ano anterior** |
 
 Meses ausentes ficam em branco. Nunca preencha lacuna com 50 ou interpolacao.

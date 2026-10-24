@@ -7,6 +7,7 @@
 ## O que está / what is here
 - `cardinal/core.py`: percentil expandindo (mínimo 36 meses, sem look-ahead), score, média ponderada com pesos renormalizados, bootstrap em blocos móveis.
 - `cardinal/indices.py`: pesos, direções, janelas e defasagens dos quatro índices.
+- `cardinal/retorno_usd.py` e `verify_usd.py`: retorno da NTN-B longa em reais, em dólar e com hedge aproximado (capítulo "Visão de quem investe de fora" do livro). O custo do hedge é aproximado por Selic menos Fed Funds, não pelo cupom cambial.
 - `verify.py`: confere os valores de agosto de 2026 publicados no livro (48,8 / 41,4 / 40,0 / 65,5).
 - `tests/`: testes do núcleo (sem look-ahead, direção, renormalização).
 - `data/SCHEMA.md`: colunas que o painel precisa ter.
