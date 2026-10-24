@@ -1,0 +1,55 @@
+variante,horizonte,alvo,n,corr,ic_lo,ic_hi
+Base,12,NTNB_longa,151,0.047,-0.193,0.298
+Base,12,Ibovespa,151,0.007,-0.274,0.346
+Base,12,Tesouro_Selic,151,-0.024,-0.359,0.25
+Pesos iguais,12,NTNB_longa,151,-0.243,-0.499,0.028
+Pesos iguais,12,Ibovespa,151,-0.162,-0.384,0.066
+Pesos iguais,12,Tesouro_Selic,151,-0.491,-0.744,-0.162
+PC1,12,NTNB_longa,70,-0.143,-0.678,0.162
+PC1,12,Ibovespa,70,-0.162,-0.479,0.305
+PC1,12,Tesouro_Selic,70,-0.874,-0.941,-0.13
+6 componentes fixos,12,NTNB_longa,140,0.017,-0.172,0.24
+6 componentes fixos,12,Ibovespa,140,-0.056,-0.315,0.296
+6 componentes fixos,12,Tesouro_Selic,140,-0.159,-0.438,0.085
+Janela 120m,12,NTNB_longa,151,0.038,-0.207,0.302
+Janela 120m,12,Ibovespa,151,0.005,-0.287,0.326
+Janela 120m,12,Tesouro_Selic,151,0.014,-0.326,0.304
+Sem tendência,12,NTNB_longa,104,-0.345,-0.581,-0.013
+Sem tendência,12,Ibovespa,104,-0.152,-0.496,0.228
+Sem tendência,12,Tesouro_Selic,104,0.022,-0.478,0.657
+Base,24,NTNB_longa,139,-0.184,-0.448,0.091
+Base,24,Ibovespa,139,-0.344,-0.591,0.083
+Base,24,Tesouro_Selic,139,-0.102,-0.537,0.11
+Pesos iguais,24,NTNB_longa,139,-0.498,-0.767,-0.168
+Pesos iguais,24,Ibovespa,139,-0.526,-0.646,-0.239
+Pesos iguais,24,Tesouro_Selic,139,-0.499,-0.778,-0.148
+PC1,24,NTNB_longa,58,-0.401,-0.896,0.362
+PC1,24,Ibovespa,58,-0.462,-0.602,-0.06
+PC1,24,Tesouro_Selic,58,-0.93,-0.952,0.042
+6 componentes fixos,24,NTNB_longa,128,-0.18,-0.417,0.115
+6 componentes fixos,24,Ibovespa,128,-0.41,-0.628,0.032
+6 componentes fixos,24,Tesouro_Selic,128,-0.148,-0.516,0.087
+Janela 120m,24,NTNB_longa,139,-0.206,-0.451,0.059
+Janela 120m,24,Ibovespa,139,-0.346,-0.592,0.056
+Janela 120m,24,Tesouro_Selic,139,-0.048,-0.493,0.189
+Sem tendência,24,NTNB_longa,92,-0.651,-0.745,0.03
+Sem tendência,24,Ibovespa,92,-0.479,-0.718,-0.075
+Sem tendência,24,Tesouro_Selic,92,0.081,-0.779,0.658
+Base,36,NTNB_longa,127,0.017,-0.484,0.344
+Base,36,Ibovespa,127,-0.117,-0.347,0.161
+Base,36,Tesouro_Selic,127,0.056,-0.489,0.261
+Pesos iguais,36,NTNB_longa,127,-0.364,-0.745,-0.15
+Pesos iguais,36,Ibovespa,127,-0.404,-0.59,-0.239
+Pesos iguais,36,Tesouro_Selic,127,-0.221,-0.58,0.09
+PC1,36,NTNB_longa,46,-0.772,-0.89,-0.737
+PC1,36,Ibovespa,46,-0.761,-0.795,-0.705
+PC1,36,Tesouro_Selic,46,-0.929,-0.954,-0.886
+6 componentes fixos,36,NTNB_longa,116,0.044,-0.392,0.305
+6 componentes fixos,36,Ibovespa,116,-0.139,-0.35,0.089
+6 componentes fixos,36,Tesouro_Selic,116,0.031,-0.467,0.279
+Janela 120m,36,NTNB_longa,127,-0.008,-0.501,0.334
+Janela 120m,36,Ibovespa,127,-0.116,-0.357,0.186
+Janela 120m,36,Tesouro_Selic,127,0.114,-0.441,0.269
+Sem tendência,36,NTNB_longa,80,-0.714,-0.799,0.027
+Sem tendência,36,Ibovespa,80,-0.391,-0.656,0.217
+Sem tendência,36,Tesouro_Selic,80,0.233,-0.812,0.553

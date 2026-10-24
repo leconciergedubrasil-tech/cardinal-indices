@@ -21,6 +21,9 @@ Use **precisao total** ao salvar (nao arredonde): o percentil usa `<=` e o arred
 | PL | P/L agregado do Ibovespa | CVM (pipeline proprio) | vies de sobrevivencia declarado no livro |
 | LUCRO | Lucro agregado | CVM | |
 | MAT_LONGA | Vencimento medio (anos) do bucket NTN-B longa | Tesouro Transparente | usado so em `retorno_usd.py` |
+| IPCA_MES | IPCA mensal (%) | IBGE | usado em `analises/` e `retorno_usd.py` |
+| SELIC_OVER_MES | Selic over acumulada no mês (%) | BCB | usado em `retorno_usd.py` |
+| IBOV | Ibovespa, fechamento do mês | B3 | usado em `analises/episodios.py`; dado com licença própria, não publicado |
 | IPCA_MES | IPCA mensal (%) | IBGE/BCB | usado so em `retorno_usd.py` |
 | SELIC_OVER_MES | Selic over acumulada no mes (%) | BCB | usado so em `retorno_usd.py` |
 | FLUXO_ANUAL | Saldo anual de investidor estrangeiro (R$ mi), repetido em todos os meses do ano | B3 | o codigo usa o saldo do **ano anterior** |

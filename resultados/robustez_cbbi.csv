@@ -1,0 +1,17 @@
+variante,agosto_2026,meses,corr_com_base,maximo,minimo
+Base (pesos do livro),48.8,163,1.0,81.1,30.5
+Pesos iguais,49.1,163,0.809,76.7,36.6
+14 perturbações de ±5 pontos (faixa),46.2 a 51.3,163,0.979 a 0.999,84.3,27.7
+Sem RY,32.3,163,0.529,74.4,22.5
+Sem FISCAL,59.7,163,0.867,78.9,38.3
+Sem INFL,44.7,163,0.845,88.2,21.7
+Sem CURVA,57.3,165,0.836,79.4,33.4
+Sem CAMBIO,46.0,163,0.994,79.2,24.1
+Sem GLOBAL,54.1,163,0.941,87.7,25.2
+Sem LIQUIDEZ,46.6,165,0.989,81.1,30.5
+"1ª componente principal (7 scores, reescalada 0-100)",5.2,82,-0.07,100.0,0.0
+Composição fixa: 6 componentes (sem Liquidez),46.6,152,0.99,81.1,30.5
+Composição fixa: 7 componentes (só meses completos),48.8,82,1.0,60.0,36.2
+Percentil em janela móvel de 120 meses,45.0,163,0.99,81.1,30.5
+Percentil do desvio da média móvel de 60 meses (sem tendência),42.1,116,0.744,68.1,25.5
+"Percentil expandindo, mínimo de 60 meses",48.8,136,0.994,60.0,30.5

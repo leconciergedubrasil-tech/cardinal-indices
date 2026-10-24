@@ -1,0 +1,19 @@
+horizonte,preditor,alvo,n,inicio,cw_t,r2_oos_pct
+12,CBBI,NTNB_longa,104,2016-11,-1.32,-6.4
+12,CBBI,Ibovespa,104,2016-11,-1.8,-9.7
+12,CBBI,Tesouro_Selic,104,2016-11,-1.22,-4.5
+12,CERI,NTNB_longa,83,2018-10,0.16,-9.3
+12,CERI,Ibovespa,83,2018-10,1.2,2.8
+12,CERI,Tesouro_Selic,83,2018-10,-0.21,-11.8
+12,RY (nivel),NTNB_longa,140,2014-01,1.94,-16.5
+12,RY (nivel),Ibovespa,141,2013-12,1.13,1.9
+12,RY (nivel),Tesouro_Selic,141,2013-12,3.25,51.2
+24,CBBI,NTNB_longa,82,2017-11,0.23,-0.3
+24,CBBI,Ibovespa,82,2017-11,-0.29,-19.9
+24,CBBI,Tesouro_Selic,82,2017-11,-1.15,-3.3
+24,CERI,NTNB_longa,59,2019-10,7.66,28.8
+24,CERI,Ibovespa,59,2019-10,1.95,25.4
+24,CERI,Tesouro_Selic,59,2019-10,-0.52,-54.3
+24,RY (nivel),NTNB_longa,116,2015-01,1.8,32.3
+24,RY (nivel),Ibovespa,117,2014-12,0.12,-10.0
+24,RY (nivel),Tesouro_Selic,117,2014-12,2.81,46.4
